@@ -1,0 +1,2 @@
+# refurbished_macbook_scrape
+This program deals with scrapping a website for refurbished macbooks and gather the macbook type,harddisk size, price,discount,condition,processor,RAM,release date etc. I encountered a few problems as RAM,processor,release date  and harddisk size shared the same tag. I was able to successfly scrape the refurbished price(except product 1 that returned blank), original price,discount, macbook type and condition(except that it came with unnecessary info which i will like to clear)
